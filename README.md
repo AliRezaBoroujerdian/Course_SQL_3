@@ -1,8 +1,9 @@
 <h1 align="center">SQL Course 03</h1>
 
 ### سرفصل‌ها:
-  - شروع کار با SELECT [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/b42fb17b45944fb63e8c4987998dac27d4b571ec/Course3/SQL%20Server%20Scripts/001.01.SELECT.sql)
-  - استفاده از USE [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/25ef801b33606bd36be2a9ae2b64005850908515/Course3/SQL%20Server%20Scripts/002.01.USE.sql)
+  - شروع کار با SELECT [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/aada34226d6b1b4d7517b69b1e009ac8d75b71ac/Course3/SQL%20Server%20Scripts/001_SELECT_01.sql)
+  - استفاده از USE [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/aada34226d6b1b4d7517b69b1e009ac8d75b71ac/Course3/SQL%20Server%20Scripts/002_USE_01.sql)
   - استفاده از FROM
-    - درس [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/25ef801b33606bd36be2a9ae2b64005850908515/Course3/SQL%20Server%20Scripts/003.01.FROM.sql)
-    - تمرین [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/25ef801b33606bd36be2a9ae2b64005850908515/Course3/SQL%20Server%20Scripts/003.02.FROM.sql)
+    - آموزش [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/aada34226d6b1b4d7517b69b1e009ac8d75b71ac/Course3/SQL%20Server%20Scripts/003_FROM_01.sql)
+    - تمرین اول [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/aada34226d6b1b4d7517b69b1e009ac8d75b71ac/Course3/SQL%20Server%20Scripts/003_FROM_02_E.g.01.sql)
+    - تمرین دوم [فایل](https://github.com/AliRezaBoroujerdian/Course_SQL_3/blob/aada34226d6b1b4d7517b69b1e009ac8d75b71ac/Course3/SQL%20Server%20Scripts/003_FROM_03_E.g.02.sql)
