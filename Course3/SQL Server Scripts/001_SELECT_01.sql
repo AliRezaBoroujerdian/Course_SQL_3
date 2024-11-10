@@ -6,4 +6,4 @@
 
 	SELECT	'علیرضا'
 
-	SELECT	N'علیرضا' 
+	SELECT	N'علیرضا'
