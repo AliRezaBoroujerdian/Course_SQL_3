@@ -4,12 +4,12 @@
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="(local):DESKTOP-6CPRNG0\AliReza">
-          <Created>2024-11-06T23:18:41.5941749+03:30</Created>
+          <Created>2024-11-10T18:18:58.2951521+03:30</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB />
+          <InitialDB>AdventureWorks2022</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <ExecutionTimeout>0</ExecutionTimeout>
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
@@ -19,29 +19,41 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="001.01.SELECT.sql">
+        <FileNode Name="001_SELECT_01.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>001.01.SELECT.sql</FullPath>
+          <FullPath>001_SELECT_01.sql</FullPath>
         </FileNode>
-        <FileNode Name="002.01.USE.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+        <FileNode Name="002_USE_01.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>002.01.USE.sql</FullPath>
+          <FullPath>002_USE_01.sql</FullPath>
         </FileNode>
-        <FileNode Name="003.01.FROM.sql">
+        <FileNode Name="003_FROM_01.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>003.01.FROM.sql</FullPath>
+          <FullPath>003_FROM_01.sql</FullPath>
         </FileNode>
-        <FileNode Name="003.02.FROM.sql">
+        <FileNode Name="003_FROM_02_E.g.01.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>003.02.FROM.sql</FullPath>
+          <FullPath>003_FROM_02_E.g.01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="003_FROM_03_E.g.02.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>003_FROM_03_E.g.02.sql</FullPath>
+        </FileNode>
+        <FileNode Name="004_Comment_01.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>004_Comment_01.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
