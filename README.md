@@ -1,4 +1,4 @@
-<h1 align="center">SQL Course 03</h1>
+<h1 align="center">SQL Course 03</h1> by AliReza Boroujerdian
 
 ### سرفصل‌ها:
 
